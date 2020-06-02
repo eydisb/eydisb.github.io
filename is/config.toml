@@ -1,73 +1,28 @@
-baseurl = "http://www.eydis.co.uk/is/"
+baseurl = "http://www.eydis.co.uk"
 languageCode = "en-us"
-title = "Eydís"
-theme = "hugo-material-docs"
-metadataformat = "yaml"
-canonifyurls = true
-# Enable Google Analytics by entering your tracking id
-googleAnalytics = "UA-74406852-1"
-
+title = "Eydis Bjornsdottir"
+titleproject = "The Little Child"
 [params]
-	# General information
-	author = "Digitalcraftsman"
-	description = "A material design theme for documentations."
-	copyright = "Released under the MIT license"
-
-	# Repository
-	logo = "/images/logo.png"
-	favicon = ""
-
-	permalink = "#"
-
-	# Custom assets
-	custom_css = []
-	custom_js  = []
-
-	# Syntax highlighting theme
-	highlight_css  = ""
-
-	[params.palette]
-    	primary = "red"
-    	accent  = "teal"
-
-    [params.font]
-    	text = "Ubuntu"
-    	code = "Ubuntu Mono"
+    project_name = "The Little Child"
+    project_url = "http://eydis.co.uk"
+    description = "Be whoever you want to be! Enjoy life and be happy!"  
+    project_documentation ="/#buy"
+    author_url = "/#about"
 
 
-[social]
-	email   = "eydis@eydis.co.uk"
+    first_color="#f2f0ab"
+    first_border_color="#e7e7e7"
+    first_text_color="#491d1d"
+
+    second_color="white"
+    second_text_color="#491d1d"
+
+    header_color="#f8f8f8"
+    header_text_color="rgb(73, 29, 29)"
+
+    header_link_color="#777"
+    header_link_hover_color="rgb(73, 29, 29)"
+
+    googleAnalytics="UA-74419955-1"
 
 
-[[menu.main]]
-	name   = "/ Bækurnar"
-	url    = "/"
-	weight = 0
-
-[[menu.main]]
-	name   = "Engill og Þengill"
-	url    = "engill-og-thengill/"
-	weight = 10
-
-[[menu.main]]
-	name   = "Litla barnið"
-	url    = "litla-barnid/"
-	weight = 20
-
-[[menu.main]]
-	name   = "Jeremías"
-	url    = "jeremias/"
-	weight = 30
-
-[[menu.main]]
-	name   = "Þegar jólasveinarnir"
-	url    = "jolasveinarnir/"
-	weight = 40
-
-
-
-[blackfriday]
-	smartypants	= true
-	fractions = true
-	smartDashes = true
-	plainIDAnchors = true
