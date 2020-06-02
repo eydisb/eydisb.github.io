@@ -1,11 +1,11 @@
 baseurl = "http://eydis.co.uk/is"
 languageCode = "en-us"
 title = "Eydís Björnsdóttir"
-titleproject = "The Little Child"
+titleproject = "Bækur"
 [params]
-    project_name = "Hugljúfar barnabækur"
+    project_name = "Ýmsar barnabækur"
     project_url = "http://eydis.co.uk/is"
-    description = "Nú eru komnar út tvær bækur"
+    description = "Safn af nokkrum bókum"
     project_documentation ="/#buy"
     author_url = "/#about"
 
