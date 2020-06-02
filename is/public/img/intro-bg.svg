@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="intro-bg.svg">
+   sodipodi:docname="LittleTwinsogChildvefsida.svg">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -126,13 +126,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49"
-     inkscape:cx="114.74737"
-     inkscape:cy="463.64736"
+     inkscape:cx="177.25635"
+     inkscape:cy="772.85715"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -159,7 +159,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -169,112 +169,8 @@
      id="layer1"
      transform="translate(0,-287.36213)">
     <g
-       id="g4244"
-       transform="matrix(1.25,0,0,1.25,-184.2245,-282.53951)">
-      <rect
-         transform="matrix(0.99067494,0.13624671,-0.13624671,0.99067494,0,0)"
-         style="fill:#aeccfc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect5261-2-2-0"
-         width="351.61691"
-         height="355.35938"
-         x="493.66083"
-         y="600.93414"
-         rx="0.0079140374"
-         ry="3.4927769"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <rect
-         style="fill:#fcd1f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect6031-9-2"
-         width="325.93445"
-         height="314.44739"
-         x="353.97308"
-         y="745.28259"
-         rx="0.0064762998"
-         ry="2.7069907"
-         transform="matrix(0.99714595,-0.075498,0.04618019,0.99893313,0,0)"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <rect
-         style="fill:#eff1dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect5261-4-1"
-         width="268.67911"
-         height="268.67911"
-         x="423.47104"
-         y="727.43066"
-         rx="0.0089559713"
-         ry="2.0108366"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         transform="matrix(0.15712228,0,0,0.15712228,-389.86212,768.85099)"
-         id="g5284-0">
-        <path
-           sodipodi:type="star"
-           style="fill:#ede98c;fill-opacity:1;fill-rule:nonzero;stroke:#837610;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path2987-1-4-5"
-           sodipodi:sides="5"
-           sodipodi:cx="166.43285"
-           sodipodi:cy="503.79074"
-           sodipodi:r1="95.487183"
-           sodipodi:r2="47.743591"
-           sodipodi:arg1="0.85843873"
-           sodipodi:arg2="1.4867573"
-           inkscape:flatsided="false"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           d="m 228.84517,576.05764 -58.40472,-24.6918 -53.45104,34.11424 5.43525,-63.17637 -48.961858,-40.29308 61.763888,-14.35334 23.19094,-59.01674 32.73694,54.30552 63.29465,3.81873 -41.53135,47.916 z"
-           inkscape:transform-center-x="3.4027576"
-           inkscape:transform-center-y="-9.9738899"
-           transform="matrix(4.5451083,0.0378582,-0.03568455,4.2841482,5299.1564,-1392.0538)"
-           inkscape:export-filename="C:\Users\Notandi\Documents\Gogn\2016\TheLittleChild\03.png"
-           inkscape:export-xdpi="29"
-           inkscape:export-ydpi="29" />
-        <ellipse
-           style="fill:#eff34d;fill-opacity:1;fill-rule:nonzero;stroke:#847810;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path2985-7-5-6"
-           inkscape:export-filename="C:\Users\Notandi\Documents\Gogn\2016\TheLittleChild\03.png"
-           inkscape:export-xdpi="29"
-           inkscape:export-ydpi="29"
-           cx="6004.2432"
-           cy="298.54037"
-           rx="187.23695"
-           ry="195.44911" />
-        <path
-           style="fill:none;stroke:#847810;stroke-width:10.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 5954.9702,425.57699 c 26.2056,35.54789 80.2707,23.90099 124.8246,-29.5638"
-           id="path2989-40-2"
-           inkscape:connector-curvature="0"
-           inkscape:export-filename="C:\Users\Notandi\Documents\Gogn\2016\TheLittleChild\03.png"
-           inkscape:export-xdpi="29"
-           inkscape:export-ydpi="29" />
-        <ellipse
-           style="fill:#837610;fill-opacity:1;fill-rule:nonzero;stroke:#847810;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path3759-94-5"
-           inkscape:export-filename="C:\Users\Notandi\Documents\Gogn\2016\TheLittleChild\03.png"
-           inkscape:export-xdpi="29"
-           inkscape:export-ydpi="29"
-           cx="5935.2607"
-           cy="294.18283"
-           rx="9.8545771"
-           ry="32.848587" />
-        <ellipse
-           style="fill:#837610;fill-opacity:1;fill-rule:nonzero;stroke:#847810;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path3759-1-8-2-71"
-           inkscape:export-filename="C:\Users\Notandi\Documents\Gogn\2016\TheLittleChild\03.png"
-           inkscape:export-xdpi="29"
-           inkscape:export-ydpi="29"
-           cx="6069.9399"
-           cy="294.18283"
-           rx="9.8545771"
-           ry="32.848587" />
-      </g>
-    </g>
-    <g
        id="g4255"
-       transform="matrix(1.25,0,0,1.25,0.91373045,-73.150071)">
+       transform="translate(6,0)">
       <rect
          transform="matrix(0.99067494,0.13624671,-0.13624671,0.99067494,0,0)"
          style="fill:#f7fcae;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -549,5 +445,148 @@
          d="m 281.75422,443.26683 c -3.50486,4.68412 -9.32635,5.42607 -12.22562,9.56789"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.82250011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <g
+       id="g4244"
+       transform="translate(2,-22)">
+      <rect
+         transform="matrix(0.99067494,0.13624671,-0.13624671,0.99067494,0,0)"
+         style="fill:#aeccfc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5261-2-2-0"
+         width="351.61691"
+         height="355.35938"
+         x="493.66083"
+         y="600.93414"
+         rx="0.0079140374"
+         ry="3.4927769"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#fcd1f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect6031-9-2"
+         width="325.93445"
+         height="314.44739"
+         x="353.97308"
+         y="745.28259"
+         rx="0.0064762998"
+         ry="2.7069907"
+         transform="matrix(0.99714595,-0.075498,0.04618019,0.99893313,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#eff1dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5261-4-1"
+         width="268.67911"
+         height="268.67911"
+         x="423.47104"
+         y="727.43066"
+         rx="0.0089559713"
+         ry="2.0108366"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         transform="matrix(0.15712228,0,0,0.15712228,-389.86212,768.85099)"
+         id="g5284-0">
+        <path
+           sodipodi:type="star"
+           style="fill:#ede98c;fill-opacity:1;fill-rule:nonzero;stroke:#837610;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path2987-1-4-5"
+           sodipodi:sides="5"
+           sodipodi:cx="166.43285"
+           sodipodi:cy="503.79074"
+           sodipodi:r1="95.487183"
+           sodipodi:r2="47.743591"
+           sodipodi:arg1="0.85843873"
+           sodipodi:arg2="1.4867573"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 228.84517,576.05764 -58.40472,-24.6918 -53.45104,34.11424 5.43525,-63.17637 -48.961858,-40.29308 61.763888,-14.35334 23.19094,-59.01674 32.73694,54.30552 63.29465,3.81873 -41.53135,47.916 z"
+           inkscape:transform-center-x="3.4027576"
+           inkscape:transform-center-y="-9.9738899"
+           transform="matrix(4.5451083,0.0378582,-0.03568455,4.2841482,5299.1564,-1392.0538)"
+           inkscape:export-filename="C:\Users\Notandi\Documents\Gogn\2016\TheLittleChild\03.png"
+           inkscape:export-xdpi="29"
+           inkscape:export-ydpi="29" />
+        <ellipse
+           style="fill:#eff34d;fill-opacity:1;fill-rule:nonzero;stroke:#847810;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path2985-7-5-6"
+           inkscape:export-filename="C:\Users\Notandi\Documents\Gogn\2016\TheLittleChild\03.png"
+           inkscape:export-xdpi="29"
+           inkscape:export-ydpi="29"
+           cx="6004.2432"
+           cy="298.54037"
+           rx="187.23695"
+           ry="195.44911" />
+        <path
+           style="fill:none;stroke:#847810;stroke-width:10.79999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 5954.9702,425.57699 c 26.2056,35.54789 80.2707,23.90099 124.8246,-29.5638"
+           id="path2989-40-2"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Users\Notandi\Documents\Gogn\2016\TheLittleChild\03.png"
+           inkscape:export-xdpi="29"
+           inkscape:export-ydpi="29" />
+        <ellipse
+           style="fill:#837610;fill-opacity:1;fill-rule:nonzero;stroke:#847810;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3759-94-5"
+           inkscape:export-filename="C:\Users\Notandi\Documents\Gogn\2016\TheLittleChild\03.png"
+           inkscape:export-xdpi="29"
+           inkscape:export-ydpi="29"
+           cx="5935.2607"
+           cy="294.18283"
+           rx="9.8545771"
+           ry="32.848587" />
+        <ellipse
+           style="fill:#837610;fill-opacity:1;fill-rule:nonzero;stroke:#847810;stroke-width:6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3759-1-8-2-71"
+           inkscape:export-filename="C:\Users\Notandi\Documents\Gogn\2016\TheLittleChild\03.png"
+           inkscape:export-xdpi="29"
+           inkscape:export-ydpi="29"
+           cx="6069.9399"
+           cy="294.18283"
+           rx="9.8545771"
+           ry="32.848587" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:187.00000048%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="564.37695"
+       y="401.13766"
+       id="text4212"
+       sodipodi:linespacing="187%"><tspan
+         sodipodi:role="line"
+         id="tspan4214"
+         x="578.14648"
+         y="401.13766"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:187.00000048%;font-family:Dyslexie;-inkscape-font-specification:Dyslexie;text-align:center;text-anchor:middle">Engill </tspan><tspan
+         sodipodi:role="line"
+         x="578.14648"
+         y="494.63766"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:187.00000048%;font-family:Dyslexie;-inkscape-font-specification:Dyslexie;text-align:center;text-anchor:middle"
+         id="tspan4216">og </tspan><tspan
+         sodipodi:role="line"
+         x="564.37695"
+         y="588.1377"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:187.00000048%;font-family:Dyslexie;-inkscape-font-specification:Dyslexie;text-align:center;text-anchor:middle"
+         id="tspan4218">Þengill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:187.00000048%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="178.40662"
+       y="825.56146"
+       id="text4212-5"
+       sodipodi:linespacing="187%"><tspan
+         sodipodi:role="line"
+         x="178.40662"
+         y="825.56146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:187.00000048%;font-family:Dyslexie;-inkscape-font-specification:Dyslexie;text-align:center;text-anchor:middle"
+         id="tspan4218-4">Litla</tspan><tspan
+         sodipodi:role="line"
+         x="178.40662"
+         y="919.06146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:187.00000048%;font-family:Dyslexie;-inkscape-font-specification:Dyslexie;text-align:center;text-anchor:middle"
+         id="tspan4291">barnið</tspan></text>
   </g>
 </svg>
