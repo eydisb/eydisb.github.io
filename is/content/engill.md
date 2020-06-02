@@ -11,7 +11,7 @@ weight = 1
 ![Cover](img/littletwins.svg)
 
 
-# Láta mér líða vel? 
+# Láta mér líða vel?
 
 ### Væri lífið ekki betra ef allir væru glaðir með sig og sitt? Svo glaðir að það væri ekki þörf fyrir öfund eða eigingirni?
 
