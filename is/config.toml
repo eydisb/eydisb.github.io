@@ -1,14 +1,13 @@
-baseurl = "http://eydis.co.uk/is"
+baseurl = "http://eydis.co.uk"
 languageCode = "en-us"
-title = "Eydís Björnsdóttir"
+title = "Eydis Bjornsdottir"
 titleproject = "The Little Child"
 [params]
-    project_name = "Hugljúfar barnabækur"
-    project_url = "http://eydis.co.uk/is"
-    description = "Nú eru komnar út tvær bækur"
-    project_documentation ="/#buy"
-    author_url = "/#about"
-
+    project_name = "The Little Child"
+    project_url = "http://eydis.co.uk"
+    project_documentation = "http://eydis.co.uk/content/isl"
+    description = "Enjoy life and be happy!"
+    author_url = "http://eydis.co.uk"
 
     first_color="#f2f0ab"
     first_border_color="#e7e7e7"
@@ -23,4 +22,4 @@ titleproject = "The Little Child"
     header_link_color="#777"
     header_link_hover_color="rgb(73, 29, 29)"
 
-    googleAnalytics ="UA-74406852-1"
+
