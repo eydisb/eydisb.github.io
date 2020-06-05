@@ -1,101 +1,243 @@
-baseURL = "https://www.eydis.co.uk/is"
-languageCode = "en-us"
-title = "Eydís"
-theme = "personal-web"
-copyright="© Eydís"
+# Page settings
+
+baseURL = "http://www.eydis.co.uk/is"
+languageCode = "en"
+title = "Engin útgáfa"
+theme = "hugo-devresume-theme"
 googleAnalytics = "UA-74406852-1"
-enableEmoji=true
-enableRobotsTXT=true
-pygmentsUseClasses=true
-pygmentsCodeFences=true
 
-[params.intro]
-  main = "Engin útgáfa :wave:"
-  sub = "Barnabækur"
 
-[taxonomies]
-  design = "designs"
-  tech = "techs"
 
-[blackfriday]
-  hrefTargetBlank = true
+
+
 
 [params]
-  breadcrumb = true
-  accentColor = "#FD3519"
-  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
-
-[params.notFound]
-  gopher = "/images/gopher.png" # checkout https://gopherize.me/
-  h1 = 'Bummer!'
-  p = "It seems that this page doesn't exist."
-
-[params.sections]
-  # Define how your sections will be called
-  # when automatically pulled. For instance in the 404 page
-  post = "article"
-  portfolio = "project"
-
-[params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
-  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
-[params.assets]
-  favicon = ""
-  customCSS = ""
-
-[params.social]
-  github = "https://github.com/"
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
-  medium = "https://medium.com/"
-  codepen = "https://codepen.io/"
-  facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
-  gitlab = "https://gitlab.com/"
-  keybase = "https://keybase.io/"
-
-[params.contact]
-  email = ""
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+    author = "CowboySmall"
+    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
 
 
-[menu]
+    primaryColor = "#54B689"
+    textPrimaryColor = "#292929"
 
-[[menu.main]]
-  identifier = "about"
-  name = "About"
-  title = "About section"
-  url = "/about/"
-  weight = -120
 
-[[menu.main]]
-  identifier = "portfolio"
-  name = "Portfolio"
-  title = "Portfolio"
-  url = "/portfolio/"
-  weight = -110
 
-[[menu.main]]
-  identifier = "blog"
-  name = "Post"
-  title = "Blog section"
-  url = "/post/"
-  weight = -100
 
-[sitemap]
-  changefreq = "monthly"
-  filename = "sitemap.xml"
-  priority = 0.5
+    [params.profile]
+        enable = true
+        name = "Engin útgáfa"
+        tagline = "Barnabækur"
+        avatar = "avatar.png"
 
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = true
-    respectDoNotTrack = true
-    useSessionStorage = false
-  [privacy.twitter]
-    disable = false
-    enableDNT = true
-    simple = false
+
+
+
+
+
+
+    [params.contact]
+        enable = true
+        location = ""
+
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:#"
+        text = "eydis@eydis.co.uk"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "http://www.facebook.com/enginutgafa"
+        text = "Facebook síða"
+
+
+
+
+
+
+
+    [params.skills]
+        enable = false
+
+        [[params.skills.list]]
+        title = ""
+        [[params.skills.list.items]]
+        details = ""
+        [[params.skills.list.items]]
+        details = ""
+        [[params.skills.list.items]]
+        details = ""
+        [[params.skills.list.items]]
+        details = ""
+        [[params.skills.list.items]]
+        details = ""
+        [[params.skills.list.items]]
+        details = ""
+        [[params.skills.list.items]]
+        details = ""
+
+        [[params.skills.list]]
+        title = ""
+        [[params.skills.list.items]]
+        details = ""
+        [[params.skills.list.items]]
+        details = ""
+        [[params.skills.list.items]]
+        details = ""
+        [[params.skills.list.items]]
+        details = ""
+
+
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = ""
+        university = ""
+        dates = ""
+        [[params.education.list]]
+        degree = ""
+        university = ""
+        dates = ""
+
+
+
+
+
+
+
+
+    [params.awards]
+        enable = false
+
+        [[params.awards.list]]
+        name = ""
+        body = ""
+        date = ""
+        [[params.awards.list]]
+        name = ""
+        body = ""
+        date = ""
+
+
+
+
+
+
+
+
+    [params.languages]
+        enable = false
+
+        [[params.languages.list]]
+        name = ""
+        level = ""
+        [[params.languages.list]]
+        name = ""
+        level = ""
+
+
+
+
+
+
+
+
+    [params.interests]
+        enable = false
+
+        [[params.interests.list]]
+        name = ""
+        [[params.interests.list]]
+        name = ""
+        [[params.interests.list]]
+        name = ""
+        [[params.interests.list]]
+        name = ""
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "Hér eru tvær barnabækur sem hægt er að lesa og hlaða niður ókeypis."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Láta mér líða vel?"
+        dates = ""
+        company = ""
+        details = "Væri lífið ekki betra ef allir væru glaðir með sig og sitt? Svo glaðir að það væri ekki þörf fyrir öfund eða eigingirni? En þetta getur stundum bara verið ansi snúið. Bók fyrir þessar stundir þegar okkur tekst ekki að vera góð við aðra. Og þegar við erum ekki góð við okkur sjálf. Bók sem minnir okkur á mikilvægi þess að líða vel."
+        [[params.experience.list.items]]
+        details = "Bókin er ekki lengur með Dyslexia leturgerðina sem auðveldar lesblindum lesturinn. Hún er nú með letri sem heitir Chelsea Market. Það fylgir Open Font License og er fáanlegt á Google Fonts. Ég þurfti að gera þessa breytingu til að geta boðið bókina ókeypis."
+        [[params.experience.list.items]]
+        details = "Hægt er að hlaða niður pdf skjalinu hér eða lesa bókina á issuu."
+
+
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "Jólaþjóðsaga úr samtímanum"
+        meta = ""
+        tagline = "Heimilin eru í hættu og það er enginn til staðar til að bjarga þeim. Nema jólasveinarnir. En það eru allir hættir að trúa á þá, meira að segja þeir sjálfir. Hvað geta þeir þá gert? Jólasveinarnir tilheyra löngu liðnum tíma. Þeir tilheyra sveitinni, bóndabænum og baðstofunni. Askasleikir sem dæmi stelur matarleifum úr askinum. Hvaða barn snæðir daglega úr ask í dag? En hvað ef það væru til nútímalegri jólasveinar? Sveinar sem ásælast hluti sem standa okkur nær? Og hvernir sveinar yrðu það? Gæfu þeir í skóinn? Eða væru þeir meiri ógn, fyrst þeir ásælast jú það sama og við? Og hvernig myndu svo gömlu jólasveinarnir bregðast við svona stökkbreyttum aðskotahlutum? Fjölskylduvæn saga fyrir börn á aldrinum 8 - 12 ára, eða um þann aldur sem þau eru hætt að trúa."
+
+
+
+
+
+
+
+    [params.information]
+        enable = false
+
+        [[params.information.list]]
+        title = ""
+        [[params.information.list.items]]
+        details = ""
+        [[params.information.list.items]]
+        details = ""
+
+        [[params.information.list]]
+        title = ""
+        details = ""
+
+
+
+
+
+
+
+
+    [params.social]
+        enable = false
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/username"
+        title = "username"
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/username"
+        title = "username"
+        [[params.social.list]]
+        icon = "fab fa-twitter-square"
+        url = "//twitter.com/username"
+        title = "@username"
