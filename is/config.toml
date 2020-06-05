@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://www.eydis.co.uk/is"
+baseURL = "https://www.eydis.co.uk/is/"
 languageCode = "en"
 title = "Engin útgáfa"
 theme = "hugo-devresume-theme"
