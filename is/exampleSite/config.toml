@@ -1,0 +1,38 @@
+baseurl = "http://eydis.co.uk/is"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Hugo Theme Dream"
+theme = "hugo-theme-dream"
+
+# copyright = ""
+
+# googleAnalytics = "UA-74406852-1"
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  background = "black"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = "Eydís"
+  # description = ""
+  avatar = "/img/avatar.jpg"
+  motto = "Motto"
+
+  email = "eydis.co.uk@gmail.com"
+  # github = ""
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2020
+
+  # favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404 = true

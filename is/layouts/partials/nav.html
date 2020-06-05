@@ -1,30 +1,15 @@
-<!-- Navigation -->
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="page-scroll navbar-brand" href="#intro">{{ .Site.Title }}</a>
-        </div>
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-<a href="#" class="paddle_button btn btn-success-outline" data-product="504144" data-allow-quantity="false" data-theme="none">Kaupa rafb&oacute;k n&uacute;na!</a>
-                </li>
-                <li>
-                </li>
-
-                <li>
-                </li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container -->
+{{ if .Site.Params.darkNav }}
+<nav class="ui secondary inverted menu dream-menu">
+{{ else }}
+<nav class="ui secondary menu dream-menu">
+{{ end }}
+  <div class="item">
+    <i class="large link bullseye icon dream-flip-toggle" title="{{ i18n "flip" }}"></i>
+  </div>
+  <div class="item">
+    <i class="large link home icon" title="{{ i18n "home" }}" onclick="window.location.href = '{{ .Site.BaseURL }}'"></i>
+  </div>
+  <div class="item">
+    <i class="large link icon theme-switch" onclick="themeSwitch()"></i>
+  </div>
 </nav>

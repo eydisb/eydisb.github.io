@@ -1,31 +1,44 @@
-<!DOCTYPE html>
-<html>
-<head>
+{{ if isset .Site.Params "favicon" }}
+  <link href="{{ .Site.Params.favicon }}" rel="shortcut icon" type="image/x-icon" />
+{{ end }}
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <base href="{{ .Site.BaseURL }}">
-    <title>{{ .Title }}</title>
+{{ if eq .Type "posts" }}
+  <!-- Page Author & Description -->
+  <meta name="author" content="{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}" />
+  <meta name="description" content="{{ .Summary | plainify }}" />
+{{ else }}
+  <!-- Site Author & Description -->
+  <meta name="author" content="{{ .Site.Params.author }}" />
+  <meta name="description" content="{{ .Site.Params.description }}" />
+{{ end }}
 
-    <!-- Bootstrap Core CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+<!-- Site Generator -->
+{{ hugo.Generator }}
 
-    <!-- Custom CSS -->
-    <link href="/css/landing-page.css" rel="stylesheet">
+<link rel="canonical" href="{{ .Permalink }}" />
 
-    <!-- Custom Fonts -->
-    <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+<!-- Open Graph -->
+{{ template "_internal/opengraph.html" . }}
 
-    <!-- Paddle Checkout.js -->  
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>  
-    <script async src="https://paddle.s3.amazonaws.com/checkout/checkout.js"></script>
+<!-- Twitter Cards -->
+{{ template "_internal/twitter_cards.html" . }}
 
-    <style>
-    {{ printf "%v" (partial "template.css" . ) | safeCSS  }}
-  </style>
+<link rel="stylesheet" href="{{ "/css/github-markdown.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/semantic.min.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/site.css" | relURL }}" />
 
-</head>
-<body>
+{{ if .Site.Params.linkColor }}
+<style>
+  a {
+    color: {{ .Site.Params.linkColor }} !important;
+  }
+</style>
+{{ end }}
+
+{{ if .Site.Params.darkLinkColor }}
+<style>
+  .inverted a {
+     color: {{ .Site.Params.darkLinkColor }} !important;
+  }
+</style>
+{{ end }}
