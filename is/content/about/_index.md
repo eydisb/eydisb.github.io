@@ -17,6 +17,3 @@ Væri lífið ekki betra ef allir væru glaðir með sig og sitt? Svo glaðir a�
 En þetta getur stundum bara verið ansi snúið.
 
 Bók fyrir þessar stundir þegar okkur tekst ekki að vera góð við aðra. Og þegar við erum ekki góð við okkur sjálf. Bók sem minnir okkur á mikilvægi þess að líða vel.
-
-:smile:
-:earth_africa:
