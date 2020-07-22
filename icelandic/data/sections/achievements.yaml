@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Achievements
+  enable: true
+  weight: 6
+  showOnNavbar: false
+  hideTitle: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Travelling to Iceland? Want to learn the basics?
+  image: images/achievements/presenter.jpg
+  summary: We will cover some of the basic sayings and other practical matters. Icelanders are generally quite good at speaking English, so there is no dire need to learn Icelandic for your journey. However, if you are so inclined, you can learn a few basics to impress the locals, break the ice, and get to know the culture a little better.
+- title: Pronunciation
+  image: images/achievements/sport.jpg
+  summary: We will focus on the pronunciation. E in Icelandic is not the same as E in English. It's important to be aware of these differences because it will make it easier to master pronunciation. Some of the sounds are tricky and it will take time and practise, but you'll get there in the end.
+- title: Basic Sentences
+  image: images/achievements/graduation-cap.jpg
+  summary: We will start to build a vocabulary by learning basic sentences and frequently used words. By practising these we can fine tune that pronunciation and become more confident at speaking Icelandic.
+- title: Repeat, please
+  image: images/achievements/woman-winner.jpg
+  summary: As with everything, the more you do it, the better you get at it. We will find ways for you to immerse yourself in the language by seeking out fun activities or source material that you enjoy. If you enjoy it, you are more likely to learn it.
