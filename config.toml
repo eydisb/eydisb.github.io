@@ -7,15 +7,6 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "G-1JGV2JD2R3"
 
-<!-- Global site tag (gtag.js) - Floodlight -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=DC-ZZZZZZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments)};
-  gtag('js', new Date());
-
-  gtag('config', 'G-1JGV2JD2R3');
-</script>
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
